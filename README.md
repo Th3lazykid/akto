@@ -183,7 +183,7 @@ not a change
   
   
  
-<details>  
+lmfao 
   <summary><h3>Debug</h3></summary>
 1. To debug front end, install Vue.js Chrome extension from [here](https://devtools.vuejs.org/guide/installation.html).
 2. To debug backend, run the following before running web server - 
