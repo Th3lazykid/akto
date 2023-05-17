@@ -85,6 +85,14 @@ Akto is really powerful in Cloud deployment if you can provide your application'
 
 </details>  
   
+change
+cahnge 
+
+awd
+
+
+wad
+awd
 
 
 # Develop and contribute
@@ -164,6 +172,10 @@ change
   
   
 
+  awdwa
+  
+  awdwa
+  
 
 1. `Open a new terminal tab`
 2. `cd ~/akto_code/akto`
@@ -180,6 +192,7 @@ change
 
   
 not a change 
+  awdwa
   
   
  
