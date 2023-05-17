@@ -151,6 +151,8 @@ OpenJDK 8, node(v18.7.0+ [link](https://nodejs.org/download/release/v18.7.0/)), 
 
 #### Setup Dashboard
 
+Change
+
 1. `Open a new terminal tab`
 2. `cd ~/akto_code/akto`
 3. `export AKTO_MONGO_CONN="mongodb://localhost:27017"`
